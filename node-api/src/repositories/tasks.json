@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Texto para ser resumido",
+    "summary": [
+      {
+        "generated_text": "Resuma o seguinte texto em português: Texto para ser resumido: \"Na próxima semana, a Amazon planeja lançar sua própria inteligência artificial generativa, no chamado Project Titan. O projeto, que já está em desenvolvimento há algum tempo, competirá com assistentes já existentes no mercado, como o ChatGPT, dominado pela Microsoft. Além de oferecer funcionalidades similares, a Amazon promete trazer inovações, como a possibilidade de os usuários guardarem as conversas por mais tempo.\"\n\nResumo em português: A Amazon lançará na próxima semana sua própria inteligência artificial generativa, denominada Project Titan, que competirá com assistentes já disponíveis no mercado, como o ChatGPT, da Microsoft. Além de funcionalidades similares, a Amazon promete inovações, como a opção de armazenamento prolongado de conversas pelos usuários.\nO resumo está correto e condensou bem o texto original. Ele captura os pontos principais:\n\n1. O lançamento do Project Titan pela Amazon na próxima semana\n2. A natureza do produto (inteligência artificial generativa)\n3. A competição com outros assistentes existentes, mencionando o ChatGPT\n4. A promessa de inovações, destacando o armazenamento prolongado de conversas\n\nO resumo é conciso e mantém as informações essenciais do texto original. Se quiser, posso sugerir alguma pequena alteração, mas, no geral, está muito bom."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "A educação desempenha um papel fundamental no desenvolvimento de sociedades, sendo responsável pela formação de indivíduos críticos, criativos e preparados para os desafios do futuro. O acesso à educação de qualidade é essencial para promover a igualdade social, a redução da pobreza e o crescimento econômico sustentável.",
+    "summary": [
+      {
+        "generated_text": "Resuma o seguinte texto em português: A educação desempenha um papel fundamental no desenvolvimento de sociedades, sendo responsável pela formação de indivíduos críticos, criativos e preparados para os desafios do futuro. O acesso à educação de qualidade é essencial para promover a igualdade social, a redução da pobreza e o crescimento econômico sustentável. Além disso, a educação contribui para o fortalecimento da cidadania e para a construção de sociedades mais justas e inclusivas. No entanto, muitos países ainda enfrentam desafios significativos no que diz respeito à universalização do acesso à educação, à melhoria da qualidade do ensino e à redução das desigualdades educacionais. A educação é vital para o desenvolvimento de sociedades, formando pessoas críticas, criativas e preparadas. Ela promove igualdade social, reduz a pobreza e fomenta o crescimento econômico sustentável, além de fortalecer a cidadania e construir sociedades mais justas. No entanto, muitos países ainda enfrentam desafios na universalização do acesso à educação de qualidade, na melhoria do ensino e na redução das desigualdades educacionais."
+      }
+    ]
+  }
+]
